@@ -5,14 +5,27 @@ body{
     background-color:#17a589;
 }
 .quem-somos{
-    background-color:  #48c9b0 ;
-    color: white;
+    background-color:#1abc9c  ;
+    color: white; 
+    padding-bottom: 20px; 
 }
 .margin{
-    padding-bottom: 50px;    
+    padding-bottom: 30px;         
 }
 .parceiros{
-    background-color: #45b39d;
-    color: white;
+    margin-top: -10px;
+    background-color:#48c9b0 ;
+    color: white; 
+    padding-bottom: 20px;   
+}
+.serviços{
+    background-color:#76d7c4; 
+    color: white;      
+}
+.bg-footer{
+    margin-top: -10px;
+    padding: 10px;
+    font-size: 14px;
+    background-color:black;
 }
 
